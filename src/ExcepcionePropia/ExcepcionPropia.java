@@ -2,6 +2,8 @@ package ExcepcionePropia;
 
 import java.util.Scanner;
 
+//En esta clase habrá un ejemplo de una excepcion propia, la cual se explicará a detalle en el readme
+
 public class ExcepcionPropia {
 
     public static void main(String[] args) throws EdadExeption {
